@@ -1,4 +1,4 @@
-### Hi, I'm Grace!
+Hi, I'm Grace!
 
 I'm a student at Cornell University studying Computer Science and Operations Research Engineering with a passion for data engineering, fullstack development, and learning cool algorithms! I enjoy plant care 🌱, running 🏃🏻‍♀️, and baking 🍮 in my free time.
 
