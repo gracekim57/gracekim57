@@ -14,6 +14,7 @@ I was a data engineering intern @ Fidelity Investments from June 2024 - August 2
 
 
 **Actively..**
+
 I am actively involved in teaching at Cornell University:
 Engineering Applications of Operations Research – Fall 2024
 Calculus I – Spring 2024, Fall 2024
