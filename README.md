@@ -1,20 +1,20 @@
-Hi, I'm Grace!
+**Hi, I'm Grace!**
 
-I'm a current junior at Cornell University studying Computer Science and Operations Research Engineering with a passion for data engineering, fullstack development, and learning cool algorithms! I enjoy plant care 🌱, running 🏃🏻‍♀️, and baking 🍮 in my free time.
+**I'm a current junior at Cornell University studying Computer Science and Operations Research Engineering** with a passion for data engineering, fullstack development, and learning cool algorithms! I enjoy plant care 🌱, running 🏃🏻‍♀️, and baking 🍮 in my free time.
 
 
-Currently...
+**Currently...**
 
 I'm an incoming software development intern @ Audible, an Amazon company for the summer of 2025! 
 
 
-Previously...
+**Previously...**
 
 I was a data engineering intern @ Fidelity Investments from June 2024 - August 2024 in Smithfield, Rhode Island.
 
 
-Actively..
-I am actively involved in teaching at Brown University:
+**Actively..**
+I am actively involved in teaching at Cornell University:
 Engineering Applications of Operations Research – Fall 2024
 Calculus I – Spring 2024, Fall 2024
 Calculus II – Fall 2023
